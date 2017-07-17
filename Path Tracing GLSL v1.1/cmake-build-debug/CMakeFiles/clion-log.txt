@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\Faculdade\GET\Pesquisa\Implemetações\Global-Illumination\Leandro\Projetos prontos\Path Tracing GLSL v1.1
